@@ -15,9 +15,8 @@ const Services = () => {
                 What I do for clients
             </h2>
             <p className='subtitle'>
-            cached modules 2.35 MiB (javascript) 6.5 MiB (asset) [cached] 727 modules
-            runtime modules 28.5 KiB 14 modules
-            javascript modules 30.5 KiB
+            Always looking to be better, I am in constant study so that
+             I can offer the best of what exists in technology.
             </p>
         </div>
         {/* item grid */}

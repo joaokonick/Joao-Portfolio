@@ -182,7 +182,7 @@ export const services = [
     icon: <FiPenTool />,
     name: 'Branding',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      'My brand is always looking for knowledge, working to make the best decisions when I`m building web applications, both for the client and for the user.',
   },
   {
     icon: <FiTag />,
